@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bassobjektsuppgift", "Bassobjektsuppgift\Bassobjektsuppgift.csproj", "{BBB501F0-F372-4E04-8FAC-C2C80BF8CEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB501F0-F372-4E04-8FAC-C2C80BF8CEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB501F0-F372-4E04-8FAC-C2C80BF8CEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB501F0-F372-4E04-8FAC-C2C80BF8CEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB501F0-F372-4E04-8FAC-C2C80BF8CEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C56162-DF96-4E44-AD9F-8560E3C88AA7}
+	EndGlobalSection
+EndGlobal
