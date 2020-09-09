@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace polymorfismuppgift1
 {
-    class Triangle : Shape
+    class tri : Shape
     {
-        public Triangle(int height, int width) : base(height, width)
+        public tri(int height, int width) : base(height, width)
         {
         }
         public override double Area()

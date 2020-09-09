@@ -11,24 +11,29 @@ namespace polymorfismuppgift1
         static void Main(string[] args)
         {
             Console.WriteLine("Vill du räkna på en rätvinklig triangel eller rektangel?");
-            Console.ReadLine();
-            if 
+            string answer = Console.ReadLine();
+            if (answer == "triangel")
             {
-
+                Console.WriteLine("Skriv in två tal:");
+                int width = Convert.ToInt32(Console.ReadLine());
+                int height = Convert.ToInt32(Console.ReadLine());
+                Shape tri = new tri(width, height);
+                Console.WriteLine(tri.Area());
+                Console.WriteLine(tri.Circumferance());
             }
-            Console.WriteLine("Skriv in två tal:");
-            int width = Convert.ToInt32(Console.ReadLine());
-            int height = Convert.ToInt32(Console.ReadLine());
-            Rectangle rec = new Rectangle(width, height);
-            Triangle tri = new Triangle(width, height);
-
-            Console.WriteLine(rec.Area());
-            Console.WriteLine(tri.Area());
-            Console.WriteLine(rec.Circumferance());
-            Console.WriteLine(tri.Circumferance());
-
-            Shape shape = new Triangle(width, height);
-            Shape shape1 = new Rectangle(width, height);
+            else if (answer == "rektangel")
+            {
+                Console.WriteLine("Skriv in två tal:");
+                int width = Convert.ToInt32(Console.ReadLine());
+                int height = Convert.ToInt32(Console.ReadLine());
+                Shape rec = new rec(width, height);
+                Console.WriteLine(rec.Area());
+                Console.WriteLine(rec.Circumferance());               
+            }
+            else
+            {
+                Console.WriteLine("Välj en!");
+            }
 
         }
     }

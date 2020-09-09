@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace polymorfismuppgift1
 {
-    class Rectangle : Shape
+    class rec : Shape
     {
-        public Rectangle(int height, int width) : base(height, width)
+        public rec(int height, int width) : base(height, width)
         {
         }
         public override double Area()
