@@ -28,7 +28,8 @@ namespace polymorfismuppgift1
                 int height = Convert.ToInt32(Console.ReadLine());
                 Shape rec = new rec(width, height);
                 Console.WriteLine(rec.Area());
-                Console.WriteLine(rec.Circumferance());               
+                Console.WriteLine(rec.Circumferance());  
+                break;
             }
             else
             {
