@@ -29,7 +29,6 @@ namespace polymorfismuppgift1
                 Shape rec = new rec(width, height);
                 Console.WriteLine(rec.Area());
                 Console.WriteLine(rec.Circumferance());  
-                break;
             }
             else
             {
