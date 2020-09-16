@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\bin\Debug\Interfaceuppgift.exe.config
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\bin\Debug\Interfaceuppgift.exe
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\bin\Debug\Interfaceuppgift.pdb
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\obj\Debug\Interfaceuppgift.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\obj\Debug\Interfaceuppgift.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\obj\Debug\Interfaceuppgift.exe
+C:\Users\Elev\source\repos\programering2\Interfaceuppgift\Interfaceuppgift\obj\Debug\Interfaceuppgift.pdb
